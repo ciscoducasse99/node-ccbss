@@ -1,0 +1,27 @@
+{
+  "name": "ccbss",
+  "version": "1.0.0",
+  "description": "Community Church Builder crossed with SmartSheet to update church-goers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Cisco Ducasse",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "passport": "^0.4.1",
+    "passport-oauth2": "^1.5.0",
+    "smartsheet": "^2.101.0",
+    "xml2js": "^0.4.23",
+    "xml2json": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
