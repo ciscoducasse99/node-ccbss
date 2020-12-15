@@ -6,9 +6,6 @@ const { SyncCommand } = require("./actions");
 
 console.log(chalk.blue("> Running script..."));
 
-// UPDATE ROBERT/SREPHANIE To stephanie
-// OPEN UP CCB TO SHOW BEFORE AND AFTER
-
 inquirer
   .prompt([
     {
