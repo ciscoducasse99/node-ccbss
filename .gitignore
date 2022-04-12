@@ -1,5 +1,5 @@
 node_modules
 config/config.env
 ccb-node-example
-/assets
-/duplicates.json
+./assets
+./duplicates.json
